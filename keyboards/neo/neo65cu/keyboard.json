@@ -23,7 +23,7 @@
         "caps_lock": "C13",
         "on_state": 1
     },
-    "processor": "STM32F072", 
+    "processor": "STM32F072",
     "bootloader": "stm32-dfu",
     "layouts": {
         "LAYOUT_wired": {
